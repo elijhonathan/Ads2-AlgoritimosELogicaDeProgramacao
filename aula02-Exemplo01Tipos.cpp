@@ -7,6 +7,7 @@ int main() {
 	float b;
 	char c;
 	
+	
 	cout << "Entre com um numero inteiro: ";
 	cin >> a;
 	
