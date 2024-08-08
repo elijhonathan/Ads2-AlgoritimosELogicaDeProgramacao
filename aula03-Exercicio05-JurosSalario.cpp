@@ -23,11 +23,5 @@ int main()
 
 
     cout << "Restara R$ " << sobra_salario;
-
-    
-
-
-
-
-    
+ 
 }
