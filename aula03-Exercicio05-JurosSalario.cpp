@@ -21,7 +21,5 @@ int main()
 
     sobra_salario = salario - juros_conta1 - juros_conta2;
 
-
     cout << "Restara R$ " << sobra_salario;
- 
 }
