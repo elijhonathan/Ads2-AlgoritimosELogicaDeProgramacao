@@ -11,7 +11,6 @@ fabrica de um carro e escreva o custo ao consumidor.
 using namespace std;
 
 int main() {
-
 	float cf, dist, imp, total;
 
 	cout << "Entre com o custo de fabrica: " << endl;
