@@ -26,6 +26,4 @@ int main()
         cout << "Sua media foi " << ponderada << " voce foi reprovado!";
     }
 
-
-
 }
