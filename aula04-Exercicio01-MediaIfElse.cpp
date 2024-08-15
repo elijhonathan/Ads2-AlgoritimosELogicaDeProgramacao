@@ -19,8 +19,4 @@ int main()
         cout << "Voce foi reprovado!";
     }
 
-
-
-
-
 }
