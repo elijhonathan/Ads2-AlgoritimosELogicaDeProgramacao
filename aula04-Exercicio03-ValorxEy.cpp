@@ -46,6 +46,5 @@ int main()
     {
         cout << "Divisor eh igual a zero, erro!";
     }
-
     
 }
