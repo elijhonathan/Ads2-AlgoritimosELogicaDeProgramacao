@@ -14,5 +14,4 @@ int main() {
 	else {
 		cout << "Impar" << endl;
 	}
-	
 }
