@@ -7,6 +7,7 @@ int main() {
     
     cout << "Entre com um numero inteiro: " << endl;
     cin >> num;
+	
     
     if (num % 2 == 0) {
     	cout << "Par" << endl;
