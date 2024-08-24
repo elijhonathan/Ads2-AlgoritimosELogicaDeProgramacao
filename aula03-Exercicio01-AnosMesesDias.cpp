@@ -20,5 +20,4 @@ int main()
     cout << idade_anos << " anos" << endl;
     cout << idade_meses << " meses" << endl;
     cout << dias << " dias";
-
 }
