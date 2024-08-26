@@ -14,16 +14,27 @@ int main() {
     cin >> c;
     
 
-    if ((a < b + c) && (b < a + c) && (c < a + b)) {
+    if ((a < b + c) && (b < a + c) && (c < a + b)) 
+    {
 
-        if (a == b && b == c) {
+        if (a == b && b == c) 
+        {
             cout << "Os valores formam um triângulo equilátero." << endl;
-        } else if (a == b || b == c || a == c) {
+        }
+        
+        else if (a == b || b == c || a == c) 
+        {
             cout << "Os valores formam um triângulo isósceles." << endl;
-        } else {
+        }
+        
+        else 
+        {
             cout << "Os valores formam um triângulo escaleno." << endl;
         }
-    } else {
+    } 
+    
+    else 
+    {
 
         cout << "Os valores não formam um triângulo." << endl;
     }
