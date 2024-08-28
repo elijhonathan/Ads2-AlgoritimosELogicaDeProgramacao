@@ -43,6 +43,4 @@ int main ()
     {
         cout << "Idade digitada invalida";
     }
-
-
 }
