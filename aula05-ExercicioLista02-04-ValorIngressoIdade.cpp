@@ -33,5 +33,4 @@ else if(idade >= 18 && idade <= 70)
 {
     cout << "O valor do ingresso eh R$ " << ingreso;
 }
-
 }
