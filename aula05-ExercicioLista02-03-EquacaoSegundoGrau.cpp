@@ -46,5 +46,4 @@ int main() {
             cout << "Raiz 2: " << raiz2 << endl;
         }
     }
-
 }
