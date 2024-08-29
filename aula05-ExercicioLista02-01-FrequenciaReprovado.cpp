@@ -8,7 +8,6 @@ int main()
     cout << "Digite a frequencia: ";
     cin >> frequencia;
 
-
     if(frequencia < 75)
     {
         cout << "Reprovado por falta";
@@ -33,5 +32,4 @@ int main()
             cout << "Exame final";
         }
     }
-
 }
