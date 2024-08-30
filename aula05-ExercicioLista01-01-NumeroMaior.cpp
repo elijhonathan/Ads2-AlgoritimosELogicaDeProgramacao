@@ -38,5 +38,4 @@ else
     cout << "Os maiores sao " << numero1 << " e " << numero3 << " sua soma eh " << soma;
 
 }
-
 }
