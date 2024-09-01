@@ -33,7 +33,4 @@ else
         cout << "O seu credito eh R$ " << saldo_calculado;
     }
 }
-
-
-
 }
