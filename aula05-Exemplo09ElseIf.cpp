@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 /* 
 Fa�a um programa que leia a nota de um aluno e mostre o 
 conceito de acordo com a tabela abaixo.
@@ -11,7 +10,6 @@ nota > 90			A
 40 < nota <= 60		D
 nota <= 40			E
 */
-
 int main() {
 
 	int nota;
