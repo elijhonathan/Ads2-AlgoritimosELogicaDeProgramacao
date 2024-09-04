@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 int main()
 {
     float saldo_medio, saldo_calculado;
@@ -32,5 +33,7 @@ else
         saldo_calculado = saldo_medio * 0.4;
         cout << "O seu credito eh R$ " << saldo_calculado;
     }
+    
 }
+    
 }
