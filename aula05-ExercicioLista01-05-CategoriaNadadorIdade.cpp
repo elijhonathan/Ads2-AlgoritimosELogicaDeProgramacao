@@ -3,6 +3,7 @@ using namespace std;
 
 int main ()
 {
+    
 
     int idade;
 
@@ -43,4 +44,5 @@ int main ()
     {
         cout << "Idade digitada invalida";
     }
+    
 }
