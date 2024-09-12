@@ -20,12 +20,10 @@ int main()
         somatorio = somatorio + nota;
         
         contador++;
-        
-        
+         
     }
     
     media = somatorio / numero_alunos;
     
     cout << "A media da classe eh: " << media;
-
 }
