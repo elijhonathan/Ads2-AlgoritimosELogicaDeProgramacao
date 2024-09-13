@@ -8,7 +8,6 @@ int main()
     cout << "Digite um numero para ver o fatorial ";
     cin >> numero;
     
-    
     somatorio = 1;
     contador = 1;
     
@@ -22,5 +21,4 @@ int main()
     }
     
     cout << "O numero " << numero << " tem o fatorial " << somatorio;
-    
 }
