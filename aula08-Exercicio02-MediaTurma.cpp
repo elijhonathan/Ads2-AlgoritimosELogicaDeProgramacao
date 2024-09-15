@@ -19,8 +19,7 @@ int main()
         
         somatorio = somatorio + nota;
         
-        contador++;
-         
+        contador++; 
     }
     
     media = somatorio / numero_alunos;
