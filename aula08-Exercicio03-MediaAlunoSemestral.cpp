@@ -26,8 +26,6 @@ int main()
         cout << "O aluno " << contador << " teve media semestral " << media << endl;
         
         contador++;
-        
-        
-        
+         
     }
 }
