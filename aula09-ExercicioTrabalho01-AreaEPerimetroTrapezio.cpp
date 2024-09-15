@@ -8,10 +8,10 @@ int main()
     cout << "Digite a altura do trapezio: ";
     cin >> altura;
 
-    cout << "Digite a lado 1 do trapezio: ";
+    cout << "Digite o lado 1 do trapezio: ";
     cin >> lado1;
 
-    cout << "Digite a lado 2 do trapezio: ";
+    cout << "Digite o lado 2 do trapezio: ";
     cin >> lado2;
 
     cout << "Digite a base maior do trapezio: ";
