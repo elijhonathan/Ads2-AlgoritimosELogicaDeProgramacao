@@ -16,8 +16,6 @@ int main()
         somatorio = somatorio * contador;
         
         contador = contador + 1;
-        
-        
     }
     
     cout << "O numero " << numero << " tem o fatorial " << somatorio;
