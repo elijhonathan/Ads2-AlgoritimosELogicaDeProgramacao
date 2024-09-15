@@ -28,5 +28,4 @@ int main()
 
     cout << "O perimetro do trapezio eh: " << perimetro;
 
-
 }
