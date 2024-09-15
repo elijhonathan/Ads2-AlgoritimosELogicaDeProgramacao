@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    float codigo, total, hotdog, coxinha, pastel, refrigerante;
+    float total, hotdog, coxinha, pastel, refrigerante;
+    int codigo;
 
     cout << "Digite o codigo do lanche: ";
     cin >> codigo;
