@@ -12,8 +12,6 @@ int main()
     contador = 1;
     soma = 0;
 
-
-
     while(contador <= numeros)
     {
         cout << "Digite o numero: ";
