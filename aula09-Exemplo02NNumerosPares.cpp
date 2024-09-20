@@ -32,6 +32,5 @@ int main() {
 	}
 	
 	cout << "Quantidade de numeros pares: " << cont << endl;
-	
 	return 0;		
 }
