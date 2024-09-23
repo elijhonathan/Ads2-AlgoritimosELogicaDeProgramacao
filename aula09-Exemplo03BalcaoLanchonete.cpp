@@ -50,15 +50,19 @@ int main() {
 		if (op == 1) {
 			total = total + 1.5 * quantidade;
 		}
+			
 		else if (op == 2) {
 			total = total + 1.4 * quantidade;
 		}
+			
 		else if (op == 3) {
 			total = total + 1.3 * quantidade;
 		}
+			
 		else if (op == 4) {
 			total = total + 1.0 * quantidade;
 		}
+			
 		else if (op == 5) {
 			cout << "Total: " << total << endl;
 		}
