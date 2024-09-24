@@ -19,4 +19,5 @@ resto_dois = resto_um % 10;
 numero3 = resto_dois;
 
 cout << numero3 << numero2 << numero1;
+  
 }
