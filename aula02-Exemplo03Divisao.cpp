@@ -12,4 +12,5 @@ int main() {
 	res = a/b;
 
 	cout << res << endl;
+	
 }
