@@ -29,7 +29,4 @@ int main()
     cout << dez << " nota de dez" << endl;
     cout << cinco << " nota de cinco" << endl;
     cout << um << " nota de um" << endl;
-
-
-    
 }
