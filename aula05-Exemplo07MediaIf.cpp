@@ -28,6 +28,5 @@ int main() {
 		else {
 			cout << "Exame Final" << endl;
 		}		
-	}
-		
+	}	
 }
