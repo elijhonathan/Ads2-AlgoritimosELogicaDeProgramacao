@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    
     int entrada, cem, resto_cem, resto_cinquenta;
     int cinquenta, resto_dez, dez, resto_cinco, cinco, um;
 
@@ -28,4 +29,5 @@ int main()
     cout << dez << " nota de dez" << endl;
     cout << cinco << " nota de cinco" << endl;
     cout << um << " nota de um" << endl;
+    
 }
