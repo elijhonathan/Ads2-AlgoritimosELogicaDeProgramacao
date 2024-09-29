@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-
     int entrada, cem, resto_cem, resto_cinquenta;
     int cinquenta, resto_dez, dez, resto_cinco, cinco, um;
 
