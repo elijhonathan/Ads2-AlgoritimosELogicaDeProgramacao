@@ -17,6 +17,5 @@ int main() {
 		cout << "Se liga!" << endl;
 	}
     
-	cout << "Ate a proxima!" << endl;
-	 
+	cout << "Ate a proxima!" << endl;	 
 }
