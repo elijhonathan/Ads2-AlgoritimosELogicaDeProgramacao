@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-
     int x1, y1, x2, y2, distancia;
     double  raiz;
 
@@ -26,5 +25,4 @@ int main()
 
     cout << "A distancia eh: " << raiz;
 
-    
 }
