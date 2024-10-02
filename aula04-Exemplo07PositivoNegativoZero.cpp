@@ -18,5 +18,4 @@ int main() {
 	if (num == 0) {
 		cout << "Zero" << endl;
 	}
-	
 }
