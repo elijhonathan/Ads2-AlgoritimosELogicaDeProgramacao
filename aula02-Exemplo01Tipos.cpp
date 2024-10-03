@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-
 	int a;
 	float b;
 	char c;
