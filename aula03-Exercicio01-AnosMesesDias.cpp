@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-
     int entrada, idade_anos, resto_anos, idade_meses, dias;
 
     cout << "Digite sua idade em dias: ";
