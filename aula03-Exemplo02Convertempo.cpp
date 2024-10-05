@@ -10,7 +10,6 @@ Por exemplo:
 3.600 segundos = 1 hora, 0 minutos, 0 segundos
 3.500 segundos = 0 horas, 58 minutos e 20 segundos
 */
-
 #include <iostream>
 using namespace std;
 
