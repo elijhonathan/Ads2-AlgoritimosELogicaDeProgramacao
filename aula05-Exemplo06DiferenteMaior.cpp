@@ -5,6 +5,7 @@ Fa�a um programa que leia dois n�meros inteiros e mostre uma
 mensagem informando se eles s�o iguais. 
 Se eles forem diferentes, mostre o maior n�mero.
 */ 
+
 int main() {
 
 	int num1, num2;
