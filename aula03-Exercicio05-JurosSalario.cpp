@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    
     float salario, conta1, conta2;
     float sobra_salario, juros_conta1, juros_conta2;
 
