@@ -31,6 +31,5 @@ int main() {
 	}
 	else {
 		cout << "Conceito E" << endl;
-	}
-	
+	}	
 }
