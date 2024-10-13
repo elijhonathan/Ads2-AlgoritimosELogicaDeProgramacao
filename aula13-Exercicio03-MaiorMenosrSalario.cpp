@@ -45,5 +45,4 @@ for (i = 1 ; i < n ; i++)
 cout << "O maior salario eh R$ " << maior << endl;
 cout << "O menor salario eh R$ " << menor << endl;
 
-    
 }
