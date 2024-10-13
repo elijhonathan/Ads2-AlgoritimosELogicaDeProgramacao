@@ -33,7 +33,5 @@ int main()
 
         primeiroNumeroPrimo++;
 
-    }
-
-  
+    } 
 }
