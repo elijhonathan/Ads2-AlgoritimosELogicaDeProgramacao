@@ -30,6 +30,5 @@ int main() {
 
 	cout << "Horas: " << horas << endl;
 	cout << "Minutos: " << minutos << endl;
-	cout << "Segundos: " << segundos << endl;
-	
+	cout << "Segundos: " << segundos << endl;	
 }
