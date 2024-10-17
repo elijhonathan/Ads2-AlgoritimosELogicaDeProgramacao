@@ -18,8 +18,8 @@ salario_liq = salario - (salario * taxa);
 
 cout << "Salario liquido eh R$ " << salario_liq << endl;
 
-maior = salario;
-menor = salario;
+maior = salario_liq;
+menor = salario_liq;
 
 for (i = 1 ; i < n ; i++)
 {
@@ -30,14 +30,14 @@ for (i = 1 ; i < n ; i++)
 
     cout << "Salario liquido eh R$ " << salario_liq << endl;
 
-    if (maior < salario)
+    if (maior < salario_liq)
     {
-        maior = salario;
+        maior = salario_liq;
     }
 
-    if (menor > salario)
+    if (menor > salario_liq)
     {
-        menor = salario;
+        menor = salario_liq;
     }
 
 }
