@@ -27,5 +27,4 @@ int main()
     cout << "A area do trapezio eh: " << area << endl;
 
     cout << "O perimetro do trapezio eh: " << perimetro;
-
 }
